@@ -1,4 +1,4 @@
-1. ## 安装所需的库
+## 安装所需的库
 
 首先，确保你已经安装了ffmpeg和tkinter。tkinter通常是Python标准库的一部分。
 
